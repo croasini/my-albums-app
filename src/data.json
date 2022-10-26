@@ -1,0 +1,182 @@
+{
+  "Albums": [
+    {
+      "name": "Puntos Cardinales",
+      "year published": 1997,
+      "producer": "Tony Mansfield",
+      "songs": [
+        {
+          "name": "Puntos Cardinales",
+          "author": "A. Moraga del Riego & L.A. Rodriguez",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Partir",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 17 sec",
+          "single": true,
+          "video": false
+        },
+        {
+          "name": "Flor Carnivora",
+          "author": "L.G. Escolar & Manuel Illán",
+          "duration": "4 min 54 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "No Estás",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "4 min 04 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "A Contratiempo",
+          "author": "Bonnie Hayes, Ana Torroja & Nico Yustas",
+          "duration": "4 min 38 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Como Tú",
+          "author": "D. Poveda & H. Batt",
+          "duration": "3 min 36 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Tal Para Cual",
+          "author": "Pancho Varona",
+          "duration": "3 min 23 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Te he Querido Tanto",
+          "author": "Txetxo Bengoetxea",
+          "duration": "4 min 05 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Como Sueñan las Sirenas",
+          "author": "Ana Torroja, Nico Yustas & L. Cabañas",
+          "duration": "3 min 17 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Deja que Llueva",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "3 min 17 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://images.genius.com/e962132e67176351bef88b0ae3f3f585.1000x1000x1.jpg",
+      "artistic direction": "TBD",
+      "personal review": "Una perra joya.",
+      "sales numbers": 600000,
+      "fun facts": "first solo album"
+    },
+    {
+      "name": "Pasajes de Un Sueño",
+      "year published": 2000,
+      "producer": "Arto Lindsay, Andrés Levin",
+      "songs": [
+        {
+          "name": "Al Sur",
+          "author": "J.C. Parada y A. Torroja",
+          "duration": "4 min 00 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Jugando al Escondite",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ya no te Quiero",
+          "author": "Nacho Béjar",
+          "duration": "4 min 40 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Bésame",
+          "author": "Ana Torroja & Andres Levin",
+          "duration": "4 min 12 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Diosa del Cobre",
+          "author": "Pavel Urquiza",
+          "duration": "4 min 09 sec",
+          "single": true,
+          "video": false
+        },
+        {
+          "name": "Cuando no Estás",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 21 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Dulce Pesadilla",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "4 min 07 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Nana",
+          "author": "Luis Barberia",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Pequeña Rosa",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Cachitos de un Sueño",
+          "author": "Ana Torroja, Jason Hart & Yago Torroja",
+          "duration": "5 min 00 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Dentro de Mi",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "5 min 31 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Una Canción de Amor",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 50 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
+      "artistic direction": "TBD",
+      "personal review": "El más arriesgado de todos, y de mis favoritos",
+      "sales numbers": 60000,
+      "fun facts": "Bruce Swedein was Sound engineer"
+    }
+  ]
+}
