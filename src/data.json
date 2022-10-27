@@ -176,7 +176,384 @@
       "artistic direction": "TBD",
       "personal review": "El más arriesgado de todos, y de mis favoritos",
       "sales numbers": 60000,
-      "fun facts": "Bruce Swedein was Sound engineer"
+      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
+    },
+    {
+      "name": "Ana Torroja",
+      "year published": 2001,
+      "producer": "Eric Moquet",
+      "songs": [
+        {
+          "name": "Més Prieres",
+          "author": "Maxim Nucci",
+          "duration": "3 min 43 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Apprends Moi",
+          "author": "Tristan Boccara",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ya no te Quiero",
+          "author": "Nacho Béjar",
+          "duration": "4 min 40 sec",
+          "single": false,
+          "video": true
+        },
+        {
+          "name": "Et je Reve",
+          "author": "Joelle Kopf & Michelle Amsellen",
+          "duration": "4 min 19 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Qui a le Droit",
+          "author": "Patrick Bruel",
+          "single": false,
+          "duration": "4 min 43 sec",
+          "video": false
+        },
+        {
+          "name": "Coeurs",
+          "author": "Ana Torroja & Miguel Bose",
+          "duration": "3 min 48 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Cuando no Estás",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 21 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ensemble",
+          "author": "Peter Lorne",
+          "duration": "5 min 10 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Libre",
+          "author": "Cathy Dennis",
+          "duration": "3 min 30 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Besame",
+          "author": "Ana Torroja & Andres Levin",
+          "duration": "4 min 12 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Una Canción de Amor",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 50 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://cdn-s3.allmusic.com/release-covers/400/0002/640/0002640261.jpg",
+      "artistic direction": "TBD",
+      "personal review": "Varied content in this french album",
+      "sales numbers": 50000,
+      "fun facts": "BMG Europe was obsessed with her voice, wanted to bring her back to the French market after her success with Mecano. He was fired or he quit around that time and everything went to shite."
+    },
+    {
+      "name": "Pasajes de Un Sueño",
+      "year published": 2000,
+      "producer": "Arto Lindsay, Andrés Levin",
+      "songs": [
+        {
+          "name": "Al Sur",
+          "author": "J.C. Parada y A. Torroja",
+          "duration": "4 min 00 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Jugando al Escondite",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ya no te Quiero",
+          "author": "Nacho Béjar",
+          "duration": "4 min 40 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Bésame",
+          "author": "Ana Torroja & Andres Levin",
+          "duration": "4 min 12 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Diosa del Cobre",
+          "author": "Pavel Urquiza",
+          "duration": "4 min 09 sec",
+          "single": true,
+          "video": false
+        },
+        {
+          "name": "Cuando no Estás",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 21 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Dulce Pesadilla",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "4 min 07 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Nana",
+          "author": "Luis Barberia",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Pequeña Rosa",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Cachitos de un Sueño",
+          "author": "Ana Torroja, Jason Hart & Yago Torroja",
+          "duration": "5 min 00 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Dentro de Mi",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "5 min 31 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Una Canción de Amor",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 50 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
+      "artistic direction": "TBD",
+      "personal review": "El más arriesgado de todos, y de mis favoritos",
+      "sales numbers": 60000,
+      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
+    },
+    {
+      "name": "Pasajes de Un Sueño",
+      "year published": 2000,
+      "producer": "Arto Lindsay, Andrés Levin",
+      "songs": [
+        {
+          "name": "Al Sur",
+          "author": "J.C. Parada y A. Torroja",
+          "duration": "4 min 00 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Jugando al Escondite",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ya no te Quiero",
+          "author": "Nacho Béjar",
+          "duration": "4 min 40 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Bésame",
+          "author": "Ana Torroja & Andres Levin",
+          "duration": "4 min 12 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Diosa del Cobre",
+          "author": "Pavel Urquiza",
+          "duration": "4 min 09 sec",
+          "single": true,
+          "video": false
+        },
+        {
+          "name": "Cuando no Estás",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 21 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Dulce Pesadilla",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "4 min 07 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Nana",
+          "author": "Luis Barberia",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Pequeña Rosa",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Cachitos de un Sueño",
+          "author": "Ana Torroja, Jason Hart & Yago Torroja",
+          "duration": "5 min 00 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Dentro de Mi",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "5 min 31 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Una Canción de Amor",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 50 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
+      "artistic direction": "TBD",
+      "personal review": "El más arriesgado de todos, y de mis favoritos",
+      "sales numbers": 60000,
+      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
+    },
+    {
+      "name": "Pasajes de Un Sueño",
+      "year published": 2000,
+      "producer": "Arto Lindsay, Andrés Levin",
+      "songs": [
+        {
+          "name": "Al Sur",
+          "author": "J.C. Parada y A. Torroja",
+          "duration": "4 min 00 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Jugando al Escondite",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 20 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Ya no te Quiero",
+          "author": "Nacho Béjar",
+          "duration": "4 min 40 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Bésame",
+          "author": "Ana Torroja & Andres Levin",
+          "duration": "4 min 12 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Diosa del Cobre",
+          "author": "Pavel Urquiza",
+          "duration": "4 min 09 sec",
+          "single": true,
+          "video": false
+        },
+        {
+          "name": "Cuando no Estás",
+          "author": "Ana Torroja, Andres Levin, Arto Lindsay",
+          "duration": "4 min 21 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Dulce Pesadilla",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "4 min 07 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Nana",
+          "author": "Luis Barberia",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Pequeña Rosa",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "3 min 14 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Cachitos de un Sueño",
+          "author": "Ana Torroja, Jason Hart & Yago Torroja",
+          "duration": "5 min 00 sec",
+          "single": true,
+          "video": true
+        },
+        {
+          "name": "Dentro de Mi",
+          "author": "Ana Torroja & Jason Hart",
+          "duration": "5 min 31 sec",
+          "single": false,
+          "video": false
+        },
+        {
+          "name": "Una Canción de Amor",
+          "author": "Txetxo Bengoetxea",
+          "duration": "3 min 50 sec",
+          "single": false,
+          "video": false
+        }
+      ],
+      "album cover url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
+      "artistic direction": "TBD",
+      "personal review": "El más arriesgado de todos, y de mis favoritos",
+      "sales numbers": 60000,
+      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
     }
   ]
 }
