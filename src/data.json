@@ -2,7 +2,7 @@
   "Albums": [
     {
       "name": "Puntos Cardinales",
-      "year published": 1997,
+      "year_published": 1997,
       "producer": "Tony Mansfield",
       "songs": [
         {
@@ -76,15 +76,15 @@
           "video": false
         }
       ],
-      "album cover url": "https://images.genius.com/e962132e67176351bef88b0ae3f3f585.1000x1000x1.jpg",
-      "artistic direction": "TBD",
-      "personal review": "Una perra joya.",
-      "sales numbers": 600000,
-      "fun facts": "first solo album"
+      "album_cover_url": "https://images.genius.com/e962132e67176351bef88b0ae3f3f585.1000x1000x1.jpg",
+      "artistic_direction": "TBD",
+      "personal_review": "Una perra joya.",
+      "sales_numbers": 600000,
+      "fun_facts": "first solo album"
     },
     {
       "name": "Pasajes de Un Sueño",
-      "year published": 2000,
+      "year_published": 2000,
       "producer": "Arto Lindsay, Andrés Levin",
       "songs": [
         {
@@ -172,15 +172,15 @@
           "video": false
         }
       ],
-      "album cover url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
-      "artistic direction": "TBD",
-      "personal review": "El más arriesgado de todos, y de mis favoritos",
-      "sales numbers": 60000,
-      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
+      "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a0afa9fa9783d4da992e369e",
+      "artistic_direction": "TBD",
+      "personal_review": "El más arriesgado de todos, y de mis favoritos",
+      "sales_numbers": 60000,
+      "fun_facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
     },
     {
       "name": "Ana Torroja",
-      "year published": 2001,
+      "year_published": 2001,
       "producer": "Eric Moquet",
       "songs": [
         {
@@ -261,15 +261,15 @@
           "video": false
         }
       ],
-      "album cover url": "https://cdn-s3.allmusic.com/release-covers/400/0002/640/0002640261.jpg",
-      "artistic direction": "TBD",
-      "personal review": "Varied content in this french album",
-      "sales numbers": 50000,
-      "fun facts": "BMG Europe was obsessed with her voice, wanted to bring her back to the French market after her success with Mecano. He was fired or he quit around that time and everything went to shite."
+      "album_cover_url": "https://cdn-s3.allmusic.com/release-covers/400/0002/640/0002640261.jpg",
+      "artistic_direction": "TBD",
+      "personal_review": "Varied content in this french album",
+      "sales_numbers": 50000,
+      "fun_facts": "BMG Europe was obsessed with her voice, wanted to bring her back to the French market after her success with Mecano. He was fired or he quit around that time and everything went to shite."
     },
     {
       "name": "Frágil",
-      "year published": 2003,
+      "year_published": 2003,
       "producer": "Eric Mouquet",
       "songs": [
         {
@@ -357,15 +357,15 @@
           "video": false
         }
       ],
-      "album cover url": "https://m.media-amazon.com/images/I/51IHwawR5JL._SY580_.jpg",
-      "artistic direction": "TBD",
-      "personal review": "Most mature album, with gems from Jorge Drexler, a cover of Wish You Were Here by Pink Floyd",
-      "sales numbers": 60000,
-      "fun facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
+      "album_cover_url": "https://m.media-amazon.com/images/I/51IHwawR5JL._SY580_.jpg",
+      "artistic_direction": "TBD",
+      "personal_review": "Most mature album, with gems from Jorge Drexler, a cover of Wish You Were Here by Pink Floyd",
+      "sales_numbers": 60000,
+      "fun_facts": "Bruce Swedein was this album's Sound engineer, probably the best one in terms of recording quality. Arto Lindsay is also a genius. Probably the best solo songs are from this album."
     },
     {
       "name": "Me Cuesta Tanto Olvidarte",
-      "year published": 2006,
+      "year_published": 2006,
       "producer": "Aleks Syntek",
       "songs": [
         {
@@ -453,15 +453,15 @@
           "video": false
         }
       ],
-      "album cover url": "https://m.media-amazon.com/images/I/51IWN+wdM3L._SY580_.jpg",
-      "artistic direction": "TBD",
-      "personal review": "Perra Rosa Lagarrigue sacando todavía más lana de Mecano explotando a Ana",
-      "sales numbers": 80000,
-      "fun facts": "Lo hizo Ana en México con Aleks Syntek y media escena mexicana se unió al proyecto - Julieta Venegas tocando el acordeón en Busco algo Barato, "
+      "album_cover_url": "https://m.media-amazon.com/images/I/51IWN+wdM3L._SY580_.jpg",
+      "artistic_direction": "TBD",
+      "personal_review": "Perra Rosa Lagarrigue sacando todavía más lana de Mecano explotando a Ana",
+      "sales_numbers": 80000,
+      "fun_facts": "Lo hizo Ana en México con Aleks Syntek y media escena mexicana se unió al proyecto - Julieta Venegas tocando el acordeón en Busco algo Barato, "
     },
     {
       "name": "Sonrisa",
-      "year published": 2010,
+      "year_published": 2010,
       "producer": "Andrés Levin",
       "songs": [
         {
@@ -535,15 +535,15 @@
           "video": true
         }
       ],
-      "album cover url": "https://i.scdn.co/image/ab67616d0000b273855010d57f3cca6b564294f5",
-      "artistic direction": "TBD",
-      "personal review": "Karen album",
-      "sales numbers": 60000,
-      "fun facts": "None... "
+      "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273855010d57f3cca6b564294f5",
+      "artistic_direction": "TBD",
+      "personal_review": "Karen album",
+      "sales_numbers": 60000,
+      "fun_facts": "None... "
     },
     {
       "name": "Mil Razones",
-      "year published": 2021,
+      "year_published": 2021,
       "producer": "Henry Saiz, El Guincho, Pional, Alizzz, Atica, Recycled J, Max Thor",
       "songs": [
         {
@@ -610,11 +610,11 @@
           "video": false
         }
       ],
-      "album cover url": "https://i.scdn.co/image/ab67616d0000b273001e293f31f7e546cf385bc1",
-      "artistic direction": "Henry Saiz",
-      "personal review": "Has top songs, completely reinvented, an exploration through electropop genres, not always carefully executed - you can find some of her best and but you can also fin the absolute worst she's made.",
-      "sales numbers": "not available on physical form",
-      "fun facts": "Young top talent from Spain worked with Ana before they were famous. Rosalía worked on 3 of the 9 songs, Recycled J on two and Alizzz and El Guincho on 3 songs too."
+      "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273001e293f31f7e546cf385bc1",
+      "artistic_direction": "Henry Saiz",
+      "personal_review": "Has top songs, completely reinvented, an exploration through electropop genres, not always carefully executed - you can find some of her best and but you can also fin the absolute worst she's made.",
+      "sales_numbers": "not available on physical form",
+      "fun_facts": "Young top talent from Spain worked with Ana before they were famous. Rosalía worked on 3 of the 9 songs, Recycled J on two and Alizzz and El Guincho on 3 songs too."
     }
   ]
 }
