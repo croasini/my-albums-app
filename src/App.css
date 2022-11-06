@@ -17,12 +17,13 @@ body {
 }
 
 .songList {
-  text-align:left;
   font-family: 'Courier New', Courier, monospace;
-  color: red
 }
 
-.albumImage {
-  display:flex;
+img {
+  width: 500px; height: auto;
 }
 
+.albumStats {
+  display:
+}

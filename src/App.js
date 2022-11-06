@@ -1,12 +1,11 @@
 import './App.css'
 import anaAlbums from './data.json'
 import AlbumComponent from './components/AlbumComponent'
-// import SongsComponent from './components/SongsComponent'
 
 const App = () => {
   console.log(anaAlbums)
   return (
-    <div className="flex-row">
+    <div>
       <h1>Ana Torroja's Albums</h1>
       <div className="main">
         {anaAlbums.Albums.map((eachanaAlbums, idx) => {

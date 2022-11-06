@@ -2,13 +2,13 @@ import React from 'react'
 
 function Album(props) {
   return (
-    <div>
+    <div className="albumCard">
       <h1 className="albumTitle">{props.title}</h1>
-      <div className="albumImage">
+      <div>
         <img src={props.imagen} alt="album" />
+        <h3>{props.subtitle}</h3>
+        <h3> Produced by: {props.linethree}</h3>
       </div>
-      <h3>{props.subtitle}</h3>
-      <h3> Produced by: {props.linethree}</h3>
       {props.songs.map((eachsong, idx) => {
         return (
           <li className="songList">
