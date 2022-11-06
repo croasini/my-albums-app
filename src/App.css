@@ -7,3 +7,22 @@ body {
   background-size: cover;
   image-resolution: 50px;
 }
+
+.main {
+  text-align:center;
+}
+
+.albumTitle {
+  font-family:'Courier New', Courier, monospace
+}
+
+.songList {
+  text-align:left;
+  font-family: 'Courier New', Courier, monospace;
+  color: red
+}
+
+.albumImage {
+  display:flex;
+}
+

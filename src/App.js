@@ -6,9 +6,9 @@ import AlbumComponent from './components/AlbumComponent'
 const App = () => {
   console.log(anaAlbums)
   return (
-    <div className="App">
+    <div className="flex-row">
       <h1>Ana Torroja's Albums</h1>
-      <div>
+      <div className="main">
         {anaAlbums.Albums.map((eachanaAlbums, idx) => {
           return (
             <AlbumComponent
