@@ -21,7 +21,7 @@ body {
 }
 
 .songList {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   padding-left: 5%;
   padding-block-end: 2%;
 }
@@ -32,7 +32,7 @@ img {
 
 h1{
   font-weight: 600;
-  
+
 }
 
 .header {
