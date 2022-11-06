@@ -2,6 +2,7 @@ import './App.css'
 import anaAlbums from './data.json'
 import AlbumComponent from './components/AlbumComponent'
 import Header from './components/Header'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
           )
         })}
       </div>
+      <Footer />
     </div>
   )
 }
