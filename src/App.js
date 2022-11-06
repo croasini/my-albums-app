@@ -1,12 +1,12 @@
 import './App.css'
 import anaAlbums from './data.json'
 import AlbumComponent from './components/AlbumComponent'
+import Header from './components/Header'
 
 const App = () => {
-  console.log(anaAlbums)
   return (
     <div>
-      <h1>Ana Torroja's Albums</h1>
+      <Header />
       <div className="main">
         {anaAlbums.Albums.map((eachanaAlbums, idx) => {
           return (
@@ -16,6 +16,7 @@ const App = () => {
               linethree={eachanaAlbums.producer}
               imagen={eachanaAlbums.album_cover_url}
               songs={eachanaAlbums.songs}
+              review={eachanaAlbums.personal_review}
               key={idx}
             />
           )

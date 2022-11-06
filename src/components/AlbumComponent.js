@@ -8,15 +8,18 @@ function Album(props) {
         <img src={props.imagen} alt="album" />
         <h3>{props.subtitle}</h3>
         <h3> Produced by: {props.linethree}</h3>
+        <h4> Personal Review: {props.review}</h4>
       </div>
-      {props.songs.map((eachsong, idx) => {
-        return (
-          <li className="songList">
-            <b>{eachsong.name}</b> Author: {eachsong.author}({eachsong.duration}
-            )
-          </li>
-        )
-      })}
+      <div>
+        {props.songs.map((eachsong, idx) => {
+          return (
+            <li className="songList">
+              <b>{eachsong.name}</b> Author: {eachsong.author}(
+              {eachsong.duration})
+            </li>
+          )
+        })}
+      </div>
     </div>
   )
 }
