@@ -70,6 +70,8 @@ h4 {
   padding-left: 40px;
   padding-right: 40px;
   border: 1px solid;
+  display: flexbox;
+  flex-wrap: wrap;
   border-color:salmon;
   background-color: bisque;
 }
