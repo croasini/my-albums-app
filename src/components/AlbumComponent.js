@@ -6,8 +6,8 @@ function Album(props) {
       <h1 className="albumTitle">{props.title}</h1>
       <div>
         <img src={props.imagen} alt="album" />
-        <h2>{props.subtitle}</h2>
-        <h3> Produced by: {props.linethree}</h3>
+        <h2 className="albumTitle">{props.subtitle}</h2>
+        <h3 className="albumTitle"> Produced by: {props.linethree}</h3>
         <h4> Personal Review: {props.review}</h4>
       </div>
       <div>
